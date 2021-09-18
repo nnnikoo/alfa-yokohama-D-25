@@ -240,6 +240,7 @@ button {
 *********************/
 .bg-color--keycolor {
   background-color: #397fa9fa;
+  color:#fff;
 }
 
 .bg-color--subcolor {
@@ -276,6 +277,7 @@ button {
   padding: 9px 20px;
   background-color: #397fa9fa;
   margin: 0 -20px 20px -20px;
+  color:#fff;
 }
 
 .section-title__stage {
